@@ -1,0 +1,80 @@
+.event-booking-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .card-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .card-con {
+    width: 450px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #f5f5f5;
+    padding: 100px;
+    margin: 10px;
+    border-radius: 5px;
+  }
+  
+  .event-image {
+    width: 80px;
+    height: 80px;
+    margin-right: 10px;
+  }
+  
+  .event-details {
+    flex-grow: 1;
+    /* align-items: center; */
+    padding: 25% ;
+  }
+  
+  h2 {
+    margin-bottom: 5px;
+  }
+  
+  p {
+    margin-top: 0;
+    color: #888;
+  }
+  
+  .counter {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .counter-button {
+    width: 30px;
+    height: 30px;
+    background-color: #eee;
+    border: none;
+    border-radius: 50%;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  
+  .counter-value {
+    margin: 0 10px;
+    font-size: 18px;
+  }
+  
+#p-css{
+  color: black;
+  text-size: 200px ;
+  width: 100px;
+}
+  

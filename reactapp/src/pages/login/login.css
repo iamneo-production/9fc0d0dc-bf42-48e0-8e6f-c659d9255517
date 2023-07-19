@@ -1,0 +1,117 @@
+form {
+    /* max-width: 400px; */
+    padding: 19px;
+    /* background-image: url("https://res.cloudinary.com/ddcuvoxj7/image/upload/v1688963368/fcb18b0f4d9a0cb51ffefccbf6eeda90_di2we3.jpg"); */
+    /* background-color:white; */
+    border: 1px solid rgb(218, 13, 13);
+    border-radius: 10px;
+    box-shadow: 0 12px 25px rgb(21, 21, 21);
+    width: 450px;
+    height: 100px;
+    margin-left: 210px;
+    margin-top: 100px;
+    font-style: italic;  
+    font-variant: normal;  
+    font-weight: bolder;  
+    font-size: 20px;  
+    font-family: garamond, cursive;  
+
+  }
+  
+#hd {
+    color: whitesmoke ;
+    text-align: center;
+  }
+  
+  label {
+    color: White ;
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  input {
+    width: 95%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    align-items: center;
+  }
+  
+  p {
+    color: rgb(196, 186, 186);
+    margin-top: 10px;
+  }
+  #click:hover
+  {
+      transition: 1.5s;
+      color:yellow;
+  }
+  #move
+  {
+    margin-top: 20px;
+    margin-left: 65px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    
+  }
+ #click {
+    width: 60%;
+    padding: 10px;
+    margin-top: 5%;
+    margin-left: 79px;
+    position: relative;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+
+  }
+
+  .bod{
+    background-image: url("https://res.cloudinary.com/dxlhip3gu/image/upload/v1688928276/img_1_owdn07.jpg");
+    background-size: cover;
+    height:100vh;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    
+  }
+
+  .bod-reg{
+    background-image: url("https://res.cloudinary.com/dxlhip3gu/image/upload/v1688928276/img_1_owdn07.jpg");
+    background-size: cover;
+    height:100vh;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    
+  }
+  #regid{
+    margin-bottom: 80%;
+    height: 80vh;
+
+  }
+
+  #form-login{
+    padding: 19px;
+    border: 1px solid rgb(218, 13, 13);
+    border-radius: 10px;
+    box-shadow: 0 12px 25px rgb(21, 21, 21);
+    width: 450px;
+    height: 400px;
+    margin-left: 210px;
+    margin-top: 100px;
+    font-style: italic;  
+    font-variant: normal;  
+    font-weight: bolder;  
+    font-size: 20px;  
+    font-family: garamond, cursive;  
+
+  }
+
+  #reg-h2{
+    color: white;
+  }

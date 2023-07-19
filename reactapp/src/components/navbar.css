@@ -1,0 +1,112 @@
+ .navbar {
+  width: 100%;
+  height: 60px;
+  background-color:#2e2b2b;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-block-start: auto;
+  margin-bottom: 0px;
+}
+
+.links {
+  margin-right: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.links a {
+  text-decoration: none;
+  color: ghostwhite;
+  margin-left: 20px;
+  font-size: 18px;
+}
+.link {
+  font-weight: 900;
+  margin-right: 1px;
+  display: flex;
+  align-items: center;
+}
+
+.link a {
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+  font-size: 18px;
+}
+
+
+.links a:hover{
+  text-decoration: underline;
+} 
+
+/* .nav{
+  height: 60px;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 20px;
+  color: white;
+}
+
+.nav h2{
+  cursor: pointer;
+}
+.nav i.bi{
+  font-size: 23px;
+  color: white;
+  
+
+}
+.logo{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.nav ul{
+list-style-type: none;
+display: flex;
+align-items: center;
+gap: 20px;
+}
+.nav ul li {
+  cursor: pointer;
+
+}
+
+/* siddebar */
+/* .sidebar-container{
+  background-color: black;
+  color: white;
+  width: 250px;
+  gap: 20px;
+  padding: 0px 20px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+
+.sidebar-container::-webkit-scrollbar{
+  display: none;
+}
+
+.nav-option{
+  display: flex;
+  align-items: center;
+  padding: 0px 0px 0px 30px;
+  gap: 10px;
+  width: 210px;
+
+}
+
+.nav-option:hover , . nav-option i.bi{
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+
+.nav-option i.bi{
+  color: white;
+  font-size: 20px;
+
+} */
